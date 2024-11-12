@@ -1,0 +1,5 @@
+Thank you for using my first Javascript project. My hope is that my submitted work meets the required standards for this assignment. 
+Maybe I overdid it a bit on the comments, but to be clear, I wanted to doublecheck if every line meets the desired functionality.
+
+I will upload this project to my Github profile. Feel free to look around at more of my projects I previously build: 
+ - 
